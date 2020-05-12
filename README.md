@@ -8,3 +8,7 @@ Buat sharing project yang udah saya buat ajah
 6. Login
 
 Belum sempurna amat. Untuk fungsi utama udah bisa berjalan dengan baik
+
+dibuat pake codeigniter3.11
+dashboard siswa MATERIAL KIT dari CREATIVE TIM
+dashboard admin SB Admin
